@@ -1,5 +1,6 @@
 import os
 import dj_database_url
+import whitenoise
 """
 Django settings for crm project.
 
